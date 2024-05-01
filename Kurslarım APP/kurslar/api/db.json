@@ -1,0 +1,34 @@
+{
+  "kurslar": [
+    {
+      "id": 1,
+      "content": "React ile web geliştirme, modern web uygulamaları oluşturmanın en etkili yollarından biridir. React, bileşen tabanlı bir yapıya sahiptir ve güçlü bir sanal DOM (Document Object Model) sistemi kullanır. Bu sayede, web sitelerini hızlı, etkileşimli ve ölçeklenebilir bir şekilde geliştirebilirsiniz. React ile, kullanıcı dostu arayüzler oluşturabilir ve verimli bir şekilde web projeleri geliştirebilirsiniz.",
+      "title": "React ile Web Geliştirme ",
+      "price": 70
+    },
+    {
+      "id": 2,
+      "content": "JavaScript, web geliştirme dünyasında önemli bir rol oynayan bir programlama dilidir. Hem frontend hem de backend tarafında kullanılabilir ve modern web uygulamalarının oluşturulmasında etkili bir şekilde kullanılır. React, bileşen tabanlı bir yapıya sahiptir ve güçlü bir sanal DOM sistemine sahiptir. Bu sayede, hızlı, etkileşimli ve ölçeklenebilir web siteleri geliştirebilirsiniz. Kullanıcı dostudur",
+      "title": "JavaScript Temelleri",
+      "price": 60
+    },
+    {
+      "id": 3,
+      "content": "Node.js, güçlü ve ölçeklenebilir sunucu tarafı uygulamaları geliştirmenin popüler bir yoludur. JavaScript tabanlı olan Node.js, hızlı ve verimli bir şekilde veritabanı işlemleri, dosya yönetimi, ağ protokolleri gibi backend işlemlerini gerçekleştirebilir. Node.js ile, modern web uygulamalarının sunucu tarafını geliştirebilir ve veri işleme, oturum yönetimi gibi işlevleri kolayca halledebilirsiniz.",
+      "title": "Node.js ile Backend Geliştirme",
+      "price": 50
+    },
+    {
+      "id": 4,
+      "content": "Python, veri analizi ve veri bilimi alanında yaygın olarak kullanılan bir programlama dilidir. Python'un güçlü veri analizi kütüphaneleri (pandas, numpy, matplotlib vb.) sayesinde, büyük veri kümelerini işleyebilir, veri keşfi yapabilir ve ilgili görselleştirmeleri oluşturabilirsiniz. Python ile, veri analizi projelerinizi daha kolay ve etkili bir şekilde gerçekleştirebilirsiniz.",
+      "title": "Python ile Veri Analizi",
+      "price": 40
+    },
+    {
+      "id": 5,
+      "content": "HTML ve CSS, web tasarımının temel yapı taşlarıdır. HTML, web sayfalarının içeriğini yapılandırmak için kullanılırken, CSS sayesinde bu içeriği stilize edebiliriz. HTML ile yapılar oluştururken, CSS ile renkler, fontlar, boyutlar ve düzenler belirleyebiliriz. HTML ve CSS ile, görsel olarak çekici ve kullanıcı dostu web siteleri tasarlayabilirsiniz.",
+      "title": "HTML ve CSS ile Web Tasarımı",
+      "price": 20
+    }
+  ]
+}
